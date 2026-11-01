@@ -1,4 +1,3 @@
-::: {align="center"}
 # GLasshole
 
 ### Stream your desktop to the prism display of the LilyGO T-Glass
@@ -16,13 +15,8 @@ ESP32-S3.**
 
 ## Demo
 
-```{=html}
-<video src="Demo.mp4" controls playsinline width="100%">
-```
-Your browser cannot play this video. [Open the demo video](Demo.mp4).
-```{=html}
-</video>
-```
+[Open the demo video](Demo.mp4)
+
 ## Features
 
 -   Streams a live desktop image to the **126 × 126** display/prism of
