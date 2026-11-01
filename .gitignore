@@ -1,0 +1,10 @@
+# Buildozer / Android build files
+GLasshole-Transmitter/.buildozer/
+
+# Build-Ausgaben
+GLasshole-Transmitter/build/
+GLasshole-Transmitter/bin/
+
+# Python Cache
+__pycache__/
+*.pyc
