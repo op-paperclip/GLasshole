@@ -8,3 +8,17 @@ GLasshole-Transmitter/bin/
 # Python Cache
 __pycache__/
 *.pyc
+
+# Buildozer
+GLasshole-Transmitter/.buildozer/
+
+# Python build
+GLasshole-Transmitter/build/
+GLasshole-Transmitter/dist/
+
+# Android binaries
+GLasshole-Transmitter/bin/
+
+# Python cache
+__pycache__/
+*.pyc
