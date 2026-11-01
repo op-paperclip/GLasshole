@@ -1,4 +1,3 @@
-::: {align="center"}
 # GLasshole Transmitter
 
 ### Send your desktop or Android screen to the LilyGO T-Glass
