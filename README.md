@@ -15,7 +15,8 @@ ESP32-S3.**
 
 ## Demo
 
-[Open the demo video](Demo.mp4)
+https://github.com/user-attachments/assets/f9a95115-b5e7-4c9c-9268-20ddfaf21117
+
 
 ## Features
 
