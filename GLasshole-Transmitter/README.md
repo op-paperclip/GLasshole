@@ -109,8 +109,9 @@ Install the APK manually:
     (German: *Ohne Scan installieren*).
 5.  Complete the installation and open **GLasshole-Transmitter**.
 
-![Android APK installation / Play Protect
-prompt](images/Installation.jpg)
+<p align="center">
+  <img src="images/Installation.jpg" alt="Android APK installation / Play Protect prompt" width="280">
+</p>
 
 *The screenshot shows the Play Protect prompt during manual
 installation. The wording and appearance may differ between Android
@@ -127,7 +128,9 @@ versions.*
 6.  Tap **Start now** to grant screen-capture permission and begin
     streaming.
 
-![Android screen capture permission prompt](images/Permission.jpg)
+<p align="center">
+  <img src="images/Permission.jpg" alt="Android screen capture permission prompt" width="280">
+</p>
 
 Android requires this confirmation as a security feature. You may need
 to approve it again when starting a new screen-capture session.
